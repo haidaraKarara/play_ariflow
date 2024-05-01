@@ -1,5 +1,4 @@
-"""
 ### The Activity DAG
 
-This DAG will help me decide what to do today. It uses the [BoredAPI](https://www.boredapi.com/) to do so.
-"""
+This DAG will call this API [BoredAPI] (https://www.boredapi.com/) which is supposed to return a json object containing an activity.
+The result is stored in a txt file.
